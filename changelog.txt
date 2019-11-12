@@ -1,0 +1,3 @@
+3.009
+Fixed TeamSheet team selection save.
+Fixed Show Hidden Zone when Closing/Exiting.
