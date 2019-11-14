@@ -1,3 +1,6 @@
+3.010
+Added file sizes to downloaders so slow internet users can see movement.
+Fixed Auto Advanced Slides disable marker.
 3.009
 Fixed TeamSheet team selection save.
 Fixed Show Hidden Zone when Closing/Exiting.
