@@ -1,3 +1,5 @@
+3.011
+TeamSheet GUI fixes.
 3.010
 Added file sizes to downloaders so slow internet users can see movement.
 Fixed Auto Advanced Slides disable marker.
