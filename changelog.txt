@@ -1,3 +1,8 @@
+3.013
+Added Mute icon to bottom left of panel window.
+3.012
+Resolved issue where ODPT Panel was not able to take screenshots of PPViewer.
+Added ability to allow NZ user to select show.
 3.011
 TeamSheet GUI fixes.
 3.010
